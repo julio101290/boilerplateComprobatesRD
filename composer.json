@@ -1,6 +1,6 @@
 {
-    "name": "julio101290/boilerplatetypesmovement",
-    "description": "CodeIgniter4 Boilerplatetypesmovement CRUD MVCfor the types of movement inventory, with fields as companye, description, type Input/Output, and it's transfer",
+    "name": "julio101290/boilerplatecomprobanterd",
+    "description": "CodeIgniter4 Boilerplatecomprobanterd CRUD MVC capture type comprobante for invoices RD",
     "keywords": [
         "codeigniter4",
         "backup",

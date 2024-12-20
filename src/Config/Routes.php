@@ -13,18 +13,18 @@ $routes->group('admin', function ($routes) {
 
     $routes->post('comprobantes_rd/save'
                 , 'Comprobantes_rdController::save'
-                ,['namespace' => 'julio101290\comprobanterd\Controllers']
+                ,['namespace' => 'julio101290\boilerplatecomprobanterd\Controllers']
                 );
 
 
     $routes->post('comprobantes_rd/getComprobantes_rd'
                 , 'Comprobantes_rdController::getComprobantes_rd'
-                ,['namespace' => 'julio101290\comprobanterd\Controllers']
+                ,['namespace' => 'julio101290\boilerplatecomprobanterd\Controllers']
                 );
 
     $routes->post('comprobantes_rd/getTiposComprobanteAjax'
                 , 'Comprobantes_rdController::getComprobantes_rdAjax'
-                ,['namespace' => 'julio101290\comprobanterd\Controllers']
+                ,['namespace' => 'julio101290\boilerplatecomprobanterd\Controllers']
                 );
 
 });

@@ -1,5 +1,5 @@
 <?php
-namespace julio101290\boilerplatesuppliers\Models;
+namespace julio101290\boilerplatecomprobanterd\Models;
 use CodeIgniter\Model;
 class Comprobantes_rdModel extends Model{
     protected $table      = 'comprobantes_rd';

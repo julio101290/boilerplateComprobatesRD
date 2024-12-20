@@ -1,7 +1,7 @@
-[![Latest Stable Version](https://poser.okvpn.org/julio101290/boilerplatetypesmovement/v/stable)](https://packagist.org/packages/julio101290/boilerplatetypesmovement) [![Total Downloads](https://poser.okvpn.org/julio101290/boilerplatetypesmovement/downloads)](https://packagist.org/packages/julio101290/boilerplatetypesmovement) [![Latest Unstable Version](https://poser.okvpn.org/julio101290/boilerplatetypesmovement/v/unstable)](https://packagist.org/packages/julio101290/boilerplatetypesmovement) [![License](https://poser.okvpn.org/julio101290/boilerplatetypesmovement/license)](https://packagist.org/packages/julio101290/boilerplatetypesmovement)
+[![Latest Stable Version](https://poser.okvpn.org/julio101290/boilerplatecomprobanterd/v/stable)](https://packagist.org/packages/julio101290/boilerplatecomprobanterd) [![Total Downloads](https://poser.okvpn.org/julio101290/boilerplatecomprobanterd/downloads)](https://packagist.org/packages/julio101290/boilerplatecomprobanterd) [![Latest Unstable Version](https://poser.okvpn.org/julio101290/boilerplatecomprobanterd/v/unstable)](https://packagist.org/packages/julio101290/boilerplatecomprobanterd) [![License](https://poser.okvpn.org/julio101290/boilerplatecomprobanterd/license)](https://packagist.org/packages/julio101290/boilerplatecomprobanterd)
 
-## CodeIgniter 4 Boilerplate Types Inventory
-CodeIgniter4 Boilerplatetypesmovement CRUD MVCfor the types of movement inventory, with fields as companye, description, type Input/Output, and it's transfer
+## CodeIgniter 4 Boilerplate Comprobante Republic Dominican
+CodeIgniter4 Boilerplatecomprobanterd CRUD MVC capture type comprobante for invoices RD
 
 
 ## Requirements
@@ -25,6 +25,8 @@ CodeIgniter4 Boilerplatetypesmovement CRUD MVCfor the types of movement inventor
 
 	composer require julio101290/boilerplatetypesmovement
 
+ 	composer require julio101290/boilerplatecomprobanterd
+
 ### Run command for migration and seeder
 
 	php spark boilerplatecompanies:installcompaniescrud
@@ -34,17 +36,21 @@ CodeIgniter4 Boilerplatetypesmovement CRUD MVCfor the types of movement inventor
   	php spark boilerplatestorages:installstorages
 
 	php spark boilerplatetypesmovement:installtypesmovement
+
+ 	php spark boilerplatecomprobanterd:installcomprobanterd
 	
 
 # Make the Menu, Example
 
-![image](https://github.com/user-attachments/assets/e4a13d86-c714-4237-b29e-adb5616b7283)
+![image](https://github.com/user-attachments/assets/f776f4cd-6df9-460c-bca0-8caf2093f03d)
+
 
 
 
 # Ready
+![image](https://github.com/user-attachments/assets/d537c087-83a2-444c-8173-c242f808dbd1)
 
-![image](https://github.com/user-attachments/assets/34038a0e-533b-466e-bd4d-21ee439dad05)
+![image](https://github.com/user-attachments/assets/88db7bf5-2842-44b3-842a-92b88be8fe36)
 
 
 
